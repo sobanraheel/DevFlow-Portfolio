@@ -75,7 +75,7 @@ export default function App() {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <Code2 className="text-white w-5 h-5" />
             </div>
-            <span>Developer<span className="text-indigo-500">Flow</span></span>
+            <span>Web & App Developer<span className="text-indigo-500">Flow</span></span>
           </motion.div>
 
           {/* Desktop Nav */}
