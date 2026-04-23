@@ -146,7 +146,7 @@ export default function App() {
               </h1>
               <p className="text-lg md:text-xl text-white/60 mb-10 leading-relaxed max-w-2xl">
                 I'm a Full Stack Developer specializing in building exceptional digital experiences. 
-                Currently focused on creating accessible, human-centered products at the intersection of design and code.
+                Currently focused on creating accessible, human-centered products at the intersection of Design & Code.
               </p>
               <div className="flex flex-wrap gap-4">
                 <button className="bg-indigo-600 hover:bg-indigo-700 text-white px-8 py-4 rounded-2xl font-bold transition-all flex items-center gap-2 group">
