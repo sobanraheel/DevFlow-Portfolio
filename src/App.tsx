@@ -142,7 +142,7 @@ export default function App() {
               </div>
               <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 leading-[1.1]">
                 Building digital <br />
-                <span className="text-gradient">experiences</span> that matter.
+                <span className="text-gradient">experiences</span> that matter to you.
               </h1>
               <p className="text-lg md:text-xl text-white/60 mb-10 leading-relaxed max-w-2xl">
                 I'm a Full Stack Developer specializing in building exceptional digital experiences. 
